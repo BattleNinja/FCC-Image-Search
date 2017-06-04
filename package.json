@@ -1,0 +1,19 @@
+{
+  "name": "image_search_engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "consolidate": "^0.14.5",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.28",
+    "node-bing-api": "^3.2.1",
+    "nunjucks": "^3.0.1"
+  }
+}
